@@ -8,7 +8,7 @@ void setup()
 	
 void mousePressed(){
 	fill(0);
-	 rect(0,0,700,400);
+	rect(0,0,700,400);
 }	
 
 void draw()
